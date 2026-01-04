@@ -1,0 +1,5 @@
+{
+  "name": " MoneyMap - Personal Finance Manager",
+  "description": "A high-performance personal finance management tool built with Material 3 design, featuring local persistence, transaction tracking, and category management.",
+  "requestFramePermissions": []
+}
